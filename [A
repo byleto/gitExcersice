@@ -1,0 +1,82 @@
+[33mcommit 06f7b743f6a0bdf6ef80ac1b34b6c05f3e22de09[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ketoperez <perezurqui5@gmail.com>
+Date:   Thu Apr 16 21:52:40 2020 -0600
+
+    Se actualizó dato de Edgar Pérez
+
+[33mcommit e89b139469c5f092a27191c8a8634e3f308fd174[m
+Author: jairomendez96 <jairomendezcabrera@gmail.com>
+Date:   Fri Apr 17 17:59:19 2020 -0600
+
+    Se actualizo el archivo participantes.txt
+
+[33mcommit 75510065c59ec75647a7d294ec252a2bbee59ee9[m
+Merge: 1f8aa1d b1c8767
+Author: Byron Torres Garcia <byleto@gmail.com>
+Date:   Thu Apr 16 22:16:38 2020 -0500
+
+    Merge pull request #1 from byleto/participantes
+    
+    Revert "renombre archivo test a participantes"
+
+[33mcommit b1c87679753cbeb898a7670d3643e5603528a708[m
+Author: Kevin Rubí <kevoru@gmail.com>
+Date:   Thu Apr 16 21:09:33 2020 -0600
+
+    Revert "renombre archivo test a participantes"
+    
+    This reverts commit 1f8aa1dd23a905817ce826c6b9615872dfe420af.
+
+[33mcommit 1f8aa1dd23a905817ce826c6b9615872dfe420af[m
+Author: Byron Torres <byleto@gmail.com>
+Date:   Thu Apr 16 21:57:09 2020 -0500
+
+    renombre archivo test a participantes
+
+[33mcommit 83fec77d095d9076e6fbf72d134b595f8f229b77[m
+Author: Kevin Rubí <kevoru@gmail.com>
+Date:   Thu Apr 16 20:39:06 2020 -0600
+
+    Se creo el archivo Participantes.txt
+
+[33mcommit bb11c03abe6fc593c2d0bf97b229cb6facf4bc6f[m
+Author: Byron Torres <byleto>
+Date:   Thu Apr 16 21:09:50 2020 -0500
+
+    agregar archivo test.txt
+
+[33mcommit 3d47b210b7b5c1c6acdefb8841d63d74775ac67b[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 21:37:58 2020 -0500
+
+    agregar link de implementacion
+
+[33mcommit 0120e86a8a3c569dafb58004a268a330bef4bc85[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 21:34:14 2020 -0500
+
+    se actulizo html y css y se agrego recurso.js
+
+[33mcommit 5f59ebb6403e7177e5252885774dda3649499ced[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 21:10:44 2020 -0500
+
+    se agrego ./history a gitIgnore
+
+[33mcommit 5e67c1fd7d95ac7d45e6815048cd8547be48fd5c[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 21:08:52 2020 -0500
+
+    Se agrego recurso.html
+
+[33mcommit c47565601c806782471cf92acaa96d8c8ca2b164[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 20:58:17 2020 -0500
+
+    Agregar recurso css
+
+[33mcommit 71ead8a2484bb4d3725872862333a10672c89e84[m
+Author: byletor <byleto@gmail.com>
+Date:   Tue Apr 14 20:44:31 2020 -0500
+
+    Se agrego el archivo1
